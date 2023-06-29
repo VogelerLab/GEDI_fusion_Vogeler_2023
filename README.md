@@ -1,7 +1,7 @@
 # GEDI_fusion_Vogeler_2023
 Processing code related to Vogeler et al. 2023 - Evaluating GEDI data fusions for continuous characterizations of forest wildlife habitat
 
-Vogeler, J. C., P. A. Fekety, L. Elliott, N. C. Swayze, S. K. Filippelli, B. Barry, J. D. Holbrook, and K. T. Vierling. 2023. Evaluating GEDI data fusions for continuous characterizations of forest wildlife habitat. Frontiers In Remote Sensing (In Review).
+Vogeler, J. C., P. A. Fekety, L. Elliott, N. C. Swayze, S. K. Filippelli, B. Barry, J. D. Holbrook, and K. T. Vierling. 2023. Evaluating GEDI data fusions for continuous characterizations of forest wildlife habitat. Frontiers In Remote Sensing. 4:1196554. https://doi.org/10.3389/frsen.2023.1196554
 
 The contents of this repository are separated into directories, which roughly describe the processing steps they accomplish. All software used are free and open source. It is up to the end user to install and maintain their local versions.
 Users may notice exploratory steps and code not discussed in the paper.
